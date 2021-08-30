@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e28672593de6a1b43bcb68824951feca
+timeCreated: 1537401548
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boyz R Gross NF
+  fontNames:
+  - Boyz R Gross NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 132dd1906b191a344b3d2de011a8b184, type: 3}
+  - {fileID: 12800000, guid: a55d3c8aab0fa3149963141bed75813c, type: 3}
+  - {fileID: 12800000, guid: 2f4b6e9b4ead4784695d2ac88f5930ed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
