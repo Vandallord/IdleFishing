@@ -5,6 +5,7 @@
 
 THIS IS NOT AN EXAMPLE CODE. An old 2018 browser game I made for the kongregate site. I love this game, it reminds me of those times. The game received a low rating on the site and was criticized because I spent less than 2 weeks on it and did not begin to refine the game design and game mechanics, I left the game as it came out from the very beginning, due to lack of time. The game is made on Unity
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cxa2hmMdFCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://www.kongregate.com/games/Vandallord/idle-fishman
+## Links
+Game on the site: https://www.youtube.com/embed/Cxa2hmMdFCU
+Game on video: https://www.kongregate.com/games/Vandallord/idle-fishman
