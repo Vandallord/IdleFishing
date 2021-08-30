@@ -1,4 +1,4 @@
-# IdleFishing 
+# Idle Fishing (final name Idle Fishman)
 
 ## About
 ЭТО НЕ ПРИМЕР КОДА. Старая браузерная игра 2018 года, которую я сделал для сайта kongregate. Я люблю эту игру, она напоминает мне о тех временах. Игра получила низкий рейтинг на сайте и подверглась критике за то, что я потратил на нее менее 2 недель и не стал дорабатывать дизайн игры и игровую механику, я оставил игру такой, как она вышла с самого начала, из-за отсутствия времени. Игра сделана на Unity
@@ -7,6 +7,6 @@ THIS IS NOT AN EXAMPLE CODE. An old 2018 browser game I made for the kongregate 
 
 
 ## Links
-Game on the site: https://www.youtube.com/embed/Cxa2hmMdFCU
+Game on the site: https://www.kongregate.com/games/Vandallord/idle-fishman 
 
-Game on video: https://www.kongregate.com/games/Vandallord/idle-fishman
+Game on video: https://www.youtube.com/embed/Cxa2hmMdFCU
